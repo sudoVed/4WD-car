@@ -21,6 +21,11 @@ A 4WD car built using an ESP32 dev board and controlled via a webpage hosted on 
 
 Yeah, I _could’ve_ gone for a fancier charging system. But where’s the fun in that? I wanted to experiment with raw components and learn the quirks firsthand.
 
+
+[Raw Vid](rover_vid.mp4)
+
+
+
 ---
 
 Features:
